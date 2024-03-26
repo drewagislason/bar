@@ -1,2 +1,11 @@
-# bar
-Simple math program to demonstrate flymake and flydoc, multiplies two numbers
+# Package bar
+
+Version 1.0
+
+Library that multiplies two numbers
+
+## API
+
+```
+int bar_multiply(int a, int b);
+```
